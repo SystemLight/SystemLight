@@ -5,7 +5,6 @@
 #### 免费教程
 
 - [KanCloud](https://www.kancloud.cn/system_light/magicsword/1532032)
-- [Bilibili狂神说Java笔记](https://gitee.com/kuangstudy/openclass)
 - [kuangstudy](https://www.kuangstudy.com/)
 - [技术胖](https://jspang.com/)
 
