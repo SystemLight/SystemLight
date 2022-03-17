@@ -1,16 +1,27 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SystemLight&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+# Welcome, traveler!
 
-### Awesome Document 👋
+[![SystemLight's GitHub stats](https://github-readme-stats.vercel.app/api?username=SystemLight&show_icons=true&theme=radical)](https://github.com/SystemLight)
 
-#### 免费教程
+## Languages
 
-- [KanCloud](https://www.kancloud.cn/system_light/magicsword/1532032)
-- [kuangstudy](https://www.kuangstudy.com/)
-- [技术胖](https://jspang.com/)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-#### 收费教程
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SystemLight&layout=compact)](https://github.com/SystemLight)
 
-- [慕课网](https://www.imooc.com/)
-- [极客时间](https://time.geekbang.org/)
-- [实验楼](https://www.lanqiao.cn/)
-- [腾讯课堂](https://ke.qq.com/)
+## Notes
+
+- [magicsword](https://www.kancloud.cn/system_light/magicsword/2037376)
+
+## Github Visitors
+
+[![Top Langs](https://profile-counter.glitch.me/systemlight/count.svg)](https://github.com/systemlight)
