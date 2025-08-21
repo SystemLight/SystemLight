@@ -21,7 +21,3 @@
 ## Notes
 
 - [magicsword](https://www.kancloud.cn/system_light/magicsword/2037376)
-
-## Github Visitors
-
-[![Top Langs](https://profile-counter.glitch.me/systemlight/count.svg)](https://github.com/systemlight)
